@@ -9,3 +9,6 @@ def walk():
 
 def jump():
     print("jumping")
+
+def laugh():
+    print("laughing")
