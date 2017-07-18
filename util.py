@@ -6,3 +6,6 @@ def sleep():
 
 def walk():
     print("walking")
+
+def jump():
+    print("jumping")
