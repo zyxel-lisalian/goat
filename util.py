@@ -1,5 +1,5 @@
 def eat():
-    print("eating")
+    print("eating a lot")
 
 def sleep():
     print("sleeping")
