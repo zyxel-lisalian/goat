@@ -3,3 +3,6 @@ def eat():
 
 def sleep():
     print("sleeping")
+
+def walk():
+    print("walking")
