@@ -13,5 +13,3 @@ def jump():
 def laugh():
     print("laughing")
 
-def step():
-    print("steping")
